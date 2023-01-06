@@ -1,16 +1,17 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+Favoriete werkvormen terug kunnen vinden
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+De Visual thinking heeft als doelgroep studenten en docenten. De bedoeling van deze website is om aan de hand van verschillende werkvormen, mini-cursussen en kennisclips leren, zowel studenten als docenten, visueel denken en communiceren.
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+De userstory die ik heb gekozen voor deze leertaak is: **"Als docent wil ik favoriete werkvormen kunnen opslaan zodat ik later makkelijk mijn favoriete werkvormen kan terugvinden."**
 
 ## Wireflow
-<!-- Toon de wireflow -->
+![image](https://user-images.githubusercontent.com/74552944/211036501-c21203de-3b2d-42e9-9421-fc3bab24456c.png)
+
 
  
 
