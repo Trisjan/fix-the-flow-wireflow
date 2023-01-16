@@ -1,7 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-Favoriete werkvormen terug kunnen vinden
+# Favoriete werkvormen terug kunnen vinden
 
 ## Gebruiker
 De Visual thinking heeft als doelgroep studenten en docenten. De bedoeling van deze website is om aan de hand van verschillende werkvormen, mini-cursussen en kennisclips leren, zowel studenten als docenten, visueel denken en communiceren.
